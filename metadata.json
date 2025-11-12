@@ -1,0 +1,5 @@
+{
+  "name": "Stock Image Hermesbox",
+  "description": "An application that generates stock images based on user-provided themes, drawing styles, and background preferences. It provides creative briefs, English image prompts, and keyword recommendations, and allows downloading the final image as a PNG file.",
+  "requestFramePermissions": []
+}
